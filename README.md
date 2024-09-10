@@ -189,8 +189,11 @@ Cybersecurity refers to the protection of internet-connected systems, including 
  7. Network & networking devices
     - WAN(wide area network)
     - LAN(local area network)
+    - MAN(Metropolitian Area Network)
+    - PAN(Personal Area Network)
     - Switch
     - Hub
+    - Router
  8. Barematel
  9. OSI layer
  10. Applications(APPs)
