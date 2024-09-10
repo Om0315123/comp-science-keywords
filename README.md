@@ -168,8 +168,10 @@ Cybersecurity refers to the protection of internet-connected systems, including 
 - *Healthcare*: AI aids in early disease detection, personalized treatment plans, and drug discovery.
 - *GPS and Navigations*: AI enhances route optimization, real-time traffic updates, and location-based services.
  <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/04/applications-of-AI.jpg" width="400" height="300"/>
----
+--- <br>
 <i><h1>RECENTLY DISCUSSED KEYWORDS</h1></i>
+<br>
+
 1. Computation
    - CPU(central processing unit)
    - GPU(graphics processing unit)
@@ -205,12 +207,4 @@ Cybersecurity refers to the protection of internet-connected systems, including 
 
 
 
-
-
-
-
-
-
-
-</b>
 
