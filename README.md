@@ -170,5 +170,47 @@ Cybersecurity refers to the protection of internet-connected systems, including 
  <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/04/applications-of-AI.jpg" width="400" height="300"/>
 ---
 <i><h1>RECENTLY DISCUSSED KEYWORDS</h1></i>
+1. Computation
+   - CPU(central processing unit)
+   - GPU(graphics processing unit)
+   - ALU(Arithematic logic unit)
+   - TPU(Tensor Processing Unit)
+2. Hardware
+   - Smart phones
+   - Laptops
+   - Desktops
+   - Mother Board
+ 3. FrontEnd,backend and **FullStack** 
+ 4. NIC(Network Interface Card)
+ 5. Ethernet
+ 6. Memory
+ 7. Network & networking devices
+    - WAN(wide area network)
+    - LAN(local area network)
+    - Switch
+    - Hub
+ 8. Barematel
+ 9. OSI layer
+ 10. Applications(APPs)
+ 11. Virtual Machine
+ 12. Cloud
+     - Azure
+     - AWS(amazon web services)
+     - GCP(Google Cloud Platform)
+13. Blockchain
+14. KERNAL :  A kernel is the core part of an operating system that acts as a bridge between software applications and the hardware of a computer.
+15. DNS (Domain Name System) :  DNS (Domain Name System) is like the internet’s phone book—it translates friendly website names (like “google.com”) into numerical IP addresses (like “172.217.3.110”) .
+16. *FULLSTACK DEVLOPER* : The tech wizards who work on both the front end (the visible part of websites and apps) and the back end (the hidden logic and infrastructure).
 
+
+
+
+
+
+
+
+
+
+
+</b>
 
