@@ -206,6 +206,40 @@ Cybersecurity refers to the protection of internet-connected systems, including 
 14. KERNAL :  A kernel is the core part of an operating system that acts as a bridge between software applications and the hardware of a computer.
 15. DNS (Domain Name System) :  DNS (Domain Name System) is like the internet’s phone book—it translates friendly website names (like “google.com”) into numerical IP addresses (like “172.217.3.110”) .
 16. *FULLSTACK DEVLOPER* : The tech wizards who work on both the front end (the visible part of websites and apps) and the back end (the hidden logic and infrastructure).
+17. ISP(Internet service provider)
+18. VPN(Virtual private network)
+19. Virtual Currency
+20. Protocols
+21. Pockets
+22. Kivy
+23. Flutter
+24. OOPS(object oriented programming)
+25. Algorithms
+26. git/github/gitops
+27. Data structure
+28. SemiConductor
+29. Linker/loader
+30. API(application programming interface)
+31. CISC/RISC
+32. DevOPs
+33. TOR
+34. Minning(crypto minning)
+35. DBMS(database management system )
+36. Architecture
+37. DSA(Data Structures and Algorithms)
+38. FireWall
+39. Kubernates(K8S)
+40. Port Number
+41. RAFT(Consensus algorithm)
+42. Open source/ close source
+43. ASICS( application specific integrated circuit )
+44. Operating System
+45. X86
+46. APIPA(Automatic Private IP Addressing):APIPA (Automatic Private IP Addressing) is a networking functionality that enables devices to self-assign an IP address automatically if they cannot get one from a DHCP server.
+47. LOKI
+48. Hypervisor:A hypervisor, also known as a virtual machine monitor (VMM) or virtualizer, is a type of computer software, firmware or hardware that creates and runs *virtual machines.*
+49. RAM(random access memory) also called main memory
+50. Domain name
 
 
 
