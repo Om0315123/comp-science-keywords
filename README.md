@@ -240,6 +240,10 @@ Cybersecurity refers to the protection of internet-connected systems, including 
 48. Hypervisor:A hypervisor, also known as a virtual machine monitor (VMM) or virtualizer, is a type of computer software, firmware or hardware that creates and runs *virtual machines.*
 49. RAM(random access memory) also called main memory
 50. Domain name
+51. ORCHESTRATOR 
+52.DOCKER
+53.MULTUS
+54.
 
 
 
