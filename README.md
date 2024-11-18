@@ -243,7 +243,9 @@ Cybersecurity refers to the protection of internet-connected systems, including 
 51. ORCHESTRATOR 
 52.DOCKER
 53.MULTUS
-54.
+54.Zero knowledge 
+55.homomorphic implementation 
+56.zero touch provisioning 
 
 
 
